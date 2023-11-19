@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Winston00/recovery_device_xiaomi_fire'
+        default: 'https://github.com/Winston00/android_device_xiaomi_fire.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android--13'
+        default: 'android-12.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
